@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-movers-22-tel-aviv-a68749-concept
+cleared_at_utc=2026-05-19T09:07:27.858606+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
